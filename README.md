@@ -19,8 +19,4 @@
 >[닷지 게임](https://github.com/Mel0PIE/Dodge-Game)
 >
 >[모바일 가상 조이스틱 구현](https://github.com/Mel0PIE/Jump-Jump)
->
->[자동 채굴 시스템]
->
->[총알로 몬스터를 잡는 RPG 게임]
 ---
