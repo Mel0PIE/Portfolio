@@ -1,17 +1,18 @@
-# 최규혁 포트폴리오
+# 포트폴리오
 >개발자를 꿈꾸는 사람입니다.
 
 </br>
 
 ## :pushpin: Intro
-게임개발자 준비중
-유니티 공부중
+>게임개발자 준비중
+>
+>유니티 공부중
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: bell4826@gmail.com
-- 깃헙: https://github.com/Mel0PIE
+>- 이메일: bell4826@gmail.com
+>- 깃헙: https://github.com/Mel0PIE
 
 </br>
 
