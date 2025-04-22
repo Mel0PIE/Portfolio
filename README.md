@@ -19,4 +19,6 @@
 >[닷지 게임](https://github.com/Mel0PIE/Dodge-Game)
 >
 >[모바일 가상 조이스틱 구현](https://github.com/Mel0PIE/Jump-Jump)
----
+>
+>[메모장](http://52.79.190.183/)
+>[코드](https://github.com/Mel0PIE/Memo)
